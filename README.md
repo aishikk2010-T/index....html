@@ -270,7 +270,7 @@ font-size:16px;
 </button>
 
 <audio id="music" loop>
-<source src="YOUR-SONG.mp3" type="audio/mpeg">
+<source src="Github song final.mpeg" type="audio/mpeg">
 </audio>
 
 <!-- PAGE 1 -->
@@ -329,10 +329,10 @@ Blow Candles 🎂
 
 <div class="gallery">
 
-<img src="https://picsum.photos/300/300?1">
-<img src="https://picsum.photos/300/300?2">
-<img src="https://picsum.photos/300/300?3">
-<img src="https://picsum.photos/300/300?4">
+<img src="Photo 2.jpeg">
+<img src="HG photo 1.jpeg">
+<img src="Photo5.jpeg">
+<img src="Photo6.jpeg">
 
 </div>
 
@@ -520,10 +520,10 @@ Your Childhood Best Friend (SIR JII) ❤️</h2>
     <h2>🎁 Choose Your Gift 🎁</h2>
 
     <div class="gift-gallery">
-        <img src=".jpg" alt="Gift 1">
-        <img src="images/gift2.jpg" alt="Gift 2">
-        <img src="images/gift3.jpg" alt="Gift 3">
-        <img src="images/gift4.jpg" alt="Gift 4">
+        <img src="Gift 1.jpg" alt="Gift 1">
+        <img src="Gift 2.jpg" alt="Gift 2">
+        <img src="Gift 3.jpg" alt="Gift 3">
+        <img src="Gift 4.jpg" alt="Gift 4">
     </div>
 </section>
 
@@ -533,7 +533,7 @@ Your Childhood Best Friend (SIR JII) ❤️</h2>
 
 <script>
 
-document.getElementById("friendName").innerText =
+document.getElementById("TRINISHA(MADAM JIII)").innerText =
 "BABBYYY(HG) ❤️";
 
 function showPage(number){
@@ -578,7 +578,7 @@ showPage(3);
 function toggleMusic(){
 
 const music =
-document.getElementById("music");
+document. Github song final.mpeg("music");
 
 if(music.paused){
 
